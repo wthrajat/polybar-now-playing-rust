@@ -1,0 +1,8 @@
+[package]
+name = "polybar-now-playing-rust"
+authors = ["Rajat Khanduri <wth.rajat@gmail.com>"]
+version = "0.1.0"
+
+[dependencies]
+dbus = "0.9"
+unicode-width = "0.1"
